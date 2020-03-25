@@ -1,0 +1,3 @@
+rootProject.name='FaceRemover'
+include ':app', 'opencv'
+include ':opencv'
